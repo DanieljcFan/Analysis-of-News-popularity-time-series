@@ -1,6 +1,6 @@
 This the final project of 553.636 Data Mining, 2018 Fall.
 
-We are trying to figure out impacts of news to be popluar concerning both peak and longevity. The report is in 
+We are trying to figure out impacts of news to be popluar concerning both peak and longevity. Find report here: https://github.com/DanieljcFan/Analysis-of-News-popularity-time-series/blob/master/Data-Mining-final-project-fall-2018.pdf 
 
 The dataset is from UCI machine learning repository. Orginal link: http://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms#
 
