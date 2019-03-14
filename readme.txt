@@ -1,7 +1,10 @@
-Orginal link:
-http://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms#
+This the final project of 553.636 Data Mining, 2018 Fall.
 
-Subset we use with 1000 rows:
+We are trying to figure out impacts of news to be popluar concerning both peak and longevity. The report is in 
+
+The dataset is from UCI machine learning repository. Orginal link: http://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms#
+
+For simplicity we analyzed only a subset of orginal data:
 sub_news.csv
 sub_facebook.csv
 sub_google.csv
